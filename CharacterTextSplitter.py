@@ -1,5 +1,6 @@
 pip install -U langchain-text-splitters
 
+#Length based text splitting
 from langchain_text_splitters import CharacterTextSplitter
 text=""" Artificial intelligence firm Anthropic has launched a $200 million initiative to examine how AI will reshape employment and economic growth, while urging governments to prepare for potentially severe labour market disruptions as the technology becomes more powerful.
 The announcement was accompanied by a new policy framework and a detailed essay from Anthropic chief executive Dario Amodei, who argued that AI could transform the workforce more rapidly and more extensively than previous technological revolutions.
